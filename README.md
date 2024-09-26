@@ -23,5 +23,5 @@
 
 </br>
 </br>
-● Contact me : <a href="mailto:aditya06pandey1368@gmail.com" style="text-decoration: none;"> Email📫 </a>
+● Contact me : <a href="aaditya06pandey@gmail.com" style="text-decoration: none;"> Email📫 </a>
 
